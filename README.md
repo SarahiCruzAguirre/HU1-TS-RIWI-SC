@@ -136,7 +136,7 @@ ecommerce-lite/
 
 ## Mock Data Summary
 
-- 15 products: 10 KPop albums and 5 official lightsticks from groups including BTS, BLACKPINK, TWICE, EXO, Stray Kids, ATEEZ, ENHYPEN, ITZY, and NMIXX.
+- 15 products: 10 KPop albums and 5 official lightsticks from groups including BTS, BLACKPINK, TWICE, EXO, Stray Kids, ATEEZ, ENHYPEN, ITZY, CHERRY BULLET and XDINARY HEROES.
 - 5 users: 1 admin, 1 moderator, and 3 customers located across Colombia.
 
 ---
